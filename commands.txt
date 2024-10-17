@@ -1,0 +1,9 @@
+- Indent: Alt + Shift + F
+- Intellisense: Crtl + space
+- createApp: flutter create my_app
+- AnalyseApp: flutter analyze
+- RunTest: flutter test
+- RunFile: flutter run lib/main.dart
+- getPackage: flutter pub get
+- updatePackages: flutter pub outdated
+- UpdatePackages: flutter pub upgrade      
